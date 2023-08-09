@@ -6,4 +6,7 @@ module pheonix.smiles.pheonixdemobird {
 
     opens pheonix.smiles.pheonixdemobird to javafx.fxml;
     exports pheonix.smiles.pheonixdemobird;
+
+    exports pheonix.smiles.pheonixdemobird.layoutmanagers;
+    opens pheonix.smiles.pheonixdemobird.layoutmanagers to javafx.fxml;
 }
