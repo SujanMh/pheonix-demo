@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24e4f9f4-89db-4209-9ff7-a2d8d592cc5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/GridPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/HBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/VBoxDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
       <recent name="pheonix.smiles.pheonixdemobird.layoutmanagers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GridPaneDemo">
+  <component name="RunManager" selected="Application.HBoxDemo">
     <configuration name="BorderPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.BorderPaneDemo" />
       <module name="Pheonix-DemoBird" />
@@ -83,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloApplicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.HelloApplicationTest" />
+    <configuration name="HBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.HBoxDemo" />
       <module name="Pheonix-DemoBird" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HBoxDemo" />
         <item itemvalue="Application.GridPaneDemo" />
         <item itemvalue="Application.TilePaneDemo" />
         <item itemvalue="Application.FlowPaneDemo" />
         <item itemvalue="Application.BorderPaneDemo" />
-        <item itemvalue="Application.HelloApplicationTest" />
       </list>
     </recent_temporary>
   </component>
