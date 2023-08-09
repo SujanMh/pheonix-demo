@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24e4f9f4-89db-4209-9ff7-a2d8d592cc5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/TilePaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/GridPaneDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="pheonix.smiles.pheonixdemobird.layoutmanagers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TilePaneDemo">
+  <component name="RunManager" selected="Application.GridPaneDemo">
     <configuration name="BorderPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.BorderPaneDemo" />
       <module name="Pheonix-DemoBird" />
@@ -59,6 +59,19 @@
     </configuration>
     <configuration name="FlowPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.FlowPaneDemo" />
+      <module name="Pheonix-DemoBird" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pheonix.smiles.pheonixdemobird.layoutmanagers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.GridPaneDemo" />
       <module name="Pheonix-DemoBird" />
       <extension name="coverage">
         <pattern>
@@ -98,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GridPaneDemo" />
         <item itemvalue="Application.TilePaneDemo" />
         <item itemvalue="Application.FlowPaneDemo" />
         <item itemvalue="Application.BorderPaneDemo" />
