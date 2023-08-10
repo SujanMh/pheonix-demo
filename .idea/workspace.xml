@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24e4f9f4-89db-4209-9ff7-a2d8d592cc5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/AnchorPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/StackPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/pheonix.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Bernhardt\Java\Basics\Pheonix-DemoBird\src\main\resources\images" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pheonix.smiles.pheonixdemobird" />
     </key>
@@ -43,22 +47,9 @@
       <recent name="pheonix.smiles.pheonixdemobird.layoutmanagers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnchorPaneDemo">
+  <component name="RunManager" selected="Application.StackPaneDemo">
     <configuration name="AnchorPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.AnchorPaneDemo" />
-      <module name="Pheonix-DemoBird" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pheonix.smiles.pheonixdemobird.layoutmanagers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlowPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.FlowPaneDemo" />
       <module name="Pheonix-DemoBird" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.StackPaneDemo" />
+      <module name="Pheonix-DemoBird" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pheonix.smiles.pheonixdemobird.layoutmanagers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TilePaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pheonix.smiles.pheonixdemobird.layoutmanagers.TilePaneDemo" />
       <module name="Pheonix-DemoBird" />
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackPaneDemo" />
         <item itemvalue="Application.AnchorPaneDemo" />
         <item itemvalue="Application.HBoxDemo" />
         <item itemvalue="Application.GridPaneDemo" />
         <item itemvalue="Application.TilePaneDemo" />
-        <item itemvalue="Application.FlowPaneDemo" />
       </list>
     </recent_temporary>
   </component>
