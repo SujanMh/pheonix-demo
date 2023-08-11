@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24e4f9f4-89db-4209-9ff7-a2d8d592cc5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/StackPaneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/pheonix.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/StackPaneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pheonix/smiles/pheonixdemobird/layoutmanagers/StackPaneDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
